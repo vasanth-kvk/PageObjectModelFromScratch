@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CogmentoCRM Test Automation Suite">
+    <test name="CogmentoCRM Application Test cases">
+        <classes>
+            <class name="com.cogmentocrm.qa.testcases.LoginPageTest"></class>
+            <class name="com.cogmentocrm.qa.testcases.HomePageTest"></class>
+            <class name="com.cogmentocrm.qa.testcases.SideMenuTest"></class>
+            <class name="com.cogmentocrm.qa.testcases.ContactPageTest"></class>
+        </classes>
+    </test>
+</suite>
